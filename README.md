@@ -1,7 +1,7 @@
 # 📊Real Estate Insights Dashboard 
 
 ## 📌About the Project
-An interactive dashboard built with Power BI to analyze the Saudi Arabian real estate market. It provides a comprehensive view of property prices, counts, distribution across cities, and neighborhood-level insights.
+This dashboard provides a comprehensive overview of real estate data in a number of selected Saudi cities, including information on total sales, the number of properties, their distribution by city, and average prices in various neighborhoods. The dashboard also includes a range of filters that help narrow down the results based on property size, age, city, and neighborhood.
 ## 🎯 Objective 
 
 This project aims to transform raw real estate data into actionable insights.
